@@ -14,6 +14,10 @@
             <li><a class="dropdown-item" href="formulario.php">formulario</a></li>
             <li><a class="dropdown-item" href="formulario_categoria.php">Categoria</a></li>
             <li><a class="dropdown-item" href="formulario_producto.php">Producto</a></li>
+            <li><a class="dropdown-item" href="formulario_producto.php">Producto2</a></li>
+            <li><a class="dropdown-item" href="formulario_producto.php">Producto3</a></li>
+            <li><a class="dropdown-item" href="formulario_producto.php">Producto4</a></li>
+            <li><a class="dropdown-item" href="formulario_producto.php">Producto5</a></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
