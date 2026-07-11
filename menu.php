@@ -12,8 +12,8 @@
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="formulario.php">formulario</a></li>
-            <li><a class="dropdown-item" href="formulario_categoria.php">Categoria</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="formulario_categoria.php">Formulario Categoria</a></li>
+            <li><a class="dropdown-item" href="formulario_cliente.php">Formulario Cliente</a></li>
           </ul>
         </li>
       </ul>
