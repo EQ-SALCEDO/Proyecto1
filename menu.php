@@ -19,6 +19,7 @@
             <li><a class="dropdown-item" href="formulario_producto.php">Producto3</a></li>
             <li><a class="dropdown-item" href="formulario_producto.php">Producto4</a></li>
             <li><a class="dropdown-item" href="formulario_producto.php">Producto5</a></li>
+            <li><a class="dropdown-item" href="formulario_usuario.php">Usuario</a></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
