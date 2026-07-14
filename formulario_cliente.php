@@ -10,5 +10,24 @@
 <body>
     <?php include 'menu.php';?>
     <h2>Cliente</h2>
+    <form action="guardar_cliente.php" method="POST">
+        <div>
+            <label for="">Ingresa el Nombre del cliente</label>
+            <input type="text" name="nombre">
+        </div>
+            <br>
+        <div>
+            <label for="">Ingresa el telefono</label>
+            <input type="text" name="telefono">
+        </div>
+            <br>
+        <div>
+            <label for="">Ingresa el correo</label>
+            <input type="text" name="correo">
+        </div>
+            <br>
+        <button type="submit">enviar</button>
+        <button type="reset">limpiar</button>
+    </form>
 </body>
 </html>
