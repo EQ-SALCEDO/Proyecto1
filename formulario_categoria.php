@@ -15,13 +15,10 @@
 <h2>Categoria</h2>
 
 <form action="guardar_categoria.php" method="POST">
-
-
-<label for="">Ingresa nombre de la categoria</label>
-<input type="text" name="categoria">
-<br>
-<button type="submit">Guardar categoria</button>
-
+    <label for="">Ingresa nombre de la categoria</label>
+    <input type="text" name="categoria">
+    <br>
+    <button type="submit">Guardar categoria</button>
 </form>
 
 </body>
