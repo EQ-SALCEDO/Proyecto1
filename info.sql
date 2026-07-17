@@ -128,11 +128,3 @@ correo VARCHAR (30) NOT NULL,
 estado INT DEFAULT 1
 );
 
-CREATE TABLE proveedor (
-pk_proveedor INT AUTO_INCREMENT PRIMARY KEY,
-nombre VARCHAR (50) NOT NULL,
-descripcion VARCHAR (100) NOT NULL,
-telefono VARCHAR (20)NOT NULL,
-correo VARCHAR (30) NOT NULL,
-estado INT DEFAULT 1
-);
